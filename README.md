@@ -6,7 +6,7 @@ AquaticNetwork es un servidor de Minecraft centrado en ofrecer una experiencia d
 
 ## Características
 
-- **Minijuegos emocionantes:** Sumérgete en una variedad de minijuegos divertidos y emocionantes, incluyendo SkyWars, BedWars y mucho más.
+- **Minijuegos emocionantes:** Sumérgete en una variedad de minijuegos divertidos y emocionantes, incluyendo HCF, BedWars y mucho más.
 - **Explora nuestro mundo personalizado:** Descubre un mundo único lleno de desafíos, tesoros y secretos por descubrir.
 - **Comunidad activa:** Únete a nuestra comunidad amigable de jugadores de todas partes del mundo y haz nuevos amigos mientras juegas.
 
